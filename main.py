@@ -14,6 +14,7 @@ WIN_HEIGHT = 800
 GEN = 0
 
 
+
 #get the images
 BIRD_IMGS = [
     
