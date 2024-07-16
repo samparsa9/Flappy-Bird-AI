@@ -81,7 +81,7 @@ class Bird:
         self.tick_count = 0
         #keep track of where we jumped from
         self.height = self.y
-
+ 
     def move(self):
         #frame goes by
         self.tick_count += 1
